@@ -26,7 +26,7 @@ While I enjoy working on my projects, in my spare time I enjoy doing things like
 
 
 #### 📬 How to reach me
- - The best way to reach me is via [eMail](laubeevan@gmail.com)
+ - The best way to reach me is via [eMail](mailto:laubeevan@gmail.com)
 
 
 
