@@ -2,7 +2,7 @@
 
 #### 🧑‍💻 Computer Engineering Student | Open Source Enthusiast
 
-I am currently studying a bachelor's in Computer Engineering at the University of Kansas. Rock chalk! I enjoy working on many different types of projects, whether they involve hardware, software, or both. 
+I am currently studying a bachelor's in Computer Engineering at the University of Kansas. Rock Chalk! I enjoy working on many different types of projects, whether they involve hardware, software, or both. 
 
 - **🎯 Current Project:** Building [termify](https://github.com/evanlaube/termify), an open source CLI-based Spotify controller
 
