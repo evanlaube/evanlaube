@@ -4,7 +4,7 @@
 
 I am currently studying a bachelor's in Computer Engineering at the University of Kansas. Rock Chalk! I enjoy working on many different types of projects, whether they involve hardware, software, or both. 
 
-- **🎯 Current Project:** Building [termify](https://github.com/evanlaube/termify), an open source CLI-based Spotify controller
+- **🎯 Current Project:** Building [procyon](https://github.com/evanlaube/procyon-py), an open source CLI-based UI library for use with python
 
 - **🛠️ I Mainly Build With:** Python and C++, but I have some experience with Java, C, PHP, and Javascript
 
@@ -14,6 +14,8 @@ I am currently studying a bachelor's in Computer Engineering at the University o
  - **[Homarus](https://github.com/evanlaube/homarus) :** An open source lightweight kinematic physics engine written in C++
 
  - **[termify](https://github.com/evanlaube/termify) :** An open source CLI-based spotify controller created using Python
+
+ - **[procyon](https://github.com/evanlaube/procyon-py) :** An open source CLI-based UI library adapted from [termify](https://github.com/evanlaube/termify)
 
 #### 🎸 Hobbies and Interests:
 While I enjoy working on my projects, in my spare time I enjoy doing things like:
