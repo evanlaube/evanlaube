@@ -4,9 +4,9 @@
 
 I am currently studying a bachelor's in Computer Engineering at the University of Kansas. Rock Chalk! I enjoy working on many different types of projects, whether they involve hardware, software, or both. 
 
-- **🎯 Current Project:** Building [procyon](https://github.com/evanlaube/procyon-py), an open source CLI-based UI library for use with python
+- **🎯 Current Project:** Building [ARMory](https://github.com/evanlaube/ARMory), a HAL for STM32 microcontrollers. 
 
-- **🛠️ I Mainly Build With:** Python and C++, but I have some experience with Java, C, PHP, and Javascript
+- **🛠️ I Mainly Build With:** Python, C, and C++, but I have some experience with Java, PHP, and Javascript
 
 ---
 
@@ -16,6 +16,8 @@ I am currently studying a bachelor's in Computer Engineering at the University o
  - **[termify](https://github.com/evanlaube/termify) :** An open source CLI-based spotify controller created using Python
 
  - **[procyon](https://github.com/evanlaube/procyon-py) :** An open source CLI-based UI library adapted from [termify](https://github.com/evanlaube/termify)
+
+ - **[ARMory](https://github.com/evanlaube/ARMory) :** A hardware abstraction layer for STM32 microcontrollers
 
 #### 🎸 Hobbies and Interests:
 While I enjoy working on my projects, in my spare time I enjoy doing things like:
@@ -29,23 +31,3 @@ While I enjoy working on my projects, in my spare time I enjoy doing things like
 
 #### 📬 How to reach me
  - The best way to reach me is via [eMail](mailto:laubeevan@gmail.com)
-
-
-
-
-
-
-<!--
-**evanlaube/evanlaube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
